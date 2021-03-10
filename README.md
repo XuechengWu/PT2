@@ -1,7 +1,5 @@
 # PT 2
 
-# PT 2
-
 # 壹. Fertigungssystematik
 
 
